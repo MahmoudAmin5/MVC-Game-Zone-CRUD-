@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MVC CRUD\\MVC CRUD\\MVC CRUD\\MVC CRUD.csproj",
+      "projectUniqueName": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\MVC CRUD.csproj",
       "projectName": "MVC CRUD",
-      "projectPath": "D:\\MVC CRUD\\MVC CRUD\\MVC CRUD\\MVC CRUD.csproj",
+      "projectPath": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\MVC CRUD.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "D:\\MVC CRUD\\MVC CRUD\\MVC CRUD\\obj\\",
+      "outputPath": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
