@@ -1,3 +1,4 @@
+
 namespace MVC_CRUD
 {
     public class Program
@@ -5,8 +6,11 @@ namespace MVC_CRUD
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
+            var connections= builder.Configuration.GetConnectionString("DefaultConnections")
+                ?? throw new InvalidOperationException("No ConnectionString");
 
             // Add services to the container.
+            builder.Services.AddDbContext<AppDbcontext>(options => options.UseSqlServer(connections));
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
