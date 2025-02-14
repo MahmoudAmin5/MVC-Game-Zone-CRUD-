@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "SuDsebZctQB/QL3/gEiI+1gSOJv2URWsOqVHvB1IkDA=",
+  "Hash": "kus8w0OrTSKztVXZt9M81g/x7w9OMIbKl7XZXEGOAXo=",
   "Source": "MVC CRUD",
   "BasePath": "_content/MVC CRUD",
   "Mode": "Default",
@@ -115,8 +115,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "61n19gt1b8",
-      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "Fingerprint": "qr1xd0plez",
+      "Integrity": "NoTyBwTENhh46EUQO26flH3ldygnF3M7P/JpH7O28rI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
@@ -1088,6 +1088,132 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
+      "Identity": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.svg",
+      "SourceId": "MVC CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\",
+      "BasePath": "_content/MVC CRUD",
+      "RelativePath": "lib/bootstrap-icons/bootstrap-icons#[.{fingerprint}]?.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0gvitdch0g",
+      "Integrity": "sAD2IsukcRgeSqm4Pk6jigadDgZ0zcgXFIsh7z3NcEs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.svg"
+    },
+    {
+      "Identity": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.css",
+      "SourceId": "MVC CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\",
+      "BasePath": "_content/MVC CRUD",
+      "RelativePath": "lib/bootstrap-icons/font/bootstrap-icons#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ho0d1k5s6r",
+      "Integrity": "T/pr6kME0u2kGGg/ViYWhe1HvwCZUDnyflrWLVOTjS0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.css"
+    },
+    {
+      "Identity": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.json",
+      "SourceId": "MVC CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\",
+      "BasePath": "_content/MVC CRUD",
+      "RelativePath": "lib/bootstrap-icons/font/bootstrap-icons#[.{fingerprint}]?.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4udlh72t27",
+      "Integrity": "TMYGYsQDe5V5/OAo2OI4cMgZ6ehfh/PP5VEO5VcQAgA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.json"
+    },
+    {
+      "Identity": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css",
+      "SourceId": "MVC CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\",
+      "BasePath": "_content/MVC CRUD",
+      "RelativePath": "lib/bootstrap-icons/font/bootstrap-icons.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "26f9b7qkas",
+      "Integrity": "9kPW/n5nn53j4WMRYAxe9c1rCY96Oogo/MKSVdKzPmI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css"
+    },
+    {
+      "Identity": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff",
+      "SourceId": "MVC CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\",
+      "BasePath": "_content/MVC CRUD",
+      "RelativePath": "lib/bootstrap-icons/font/fonts/bootstrap-icons#[.{fingerprint}]?.woff",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "lssqqxhxcq",
+      "Integrity": "ux3pibg5cPb05U3hzZdMXLpVtzWC2l4bIlptDt8ClIM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Identity": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2",
+      "SourceId": "MVC CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\",
+      "BasePath": "_content/MVC CRUD",
+      "RelativePath": "lib/bootstrap-icons/font/fonts/bootstrap-icons#[.{fingerprint}]?.woff2",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xeyugjpn2t",
+      "Integrity": "R2rfQrQDJQmPz6izarPnaRhrtPbOaiSXU+LhqcIr+Z4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2"
+    },
+    {
       "Identity": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "MVC CRUD",
       "SourceType": "Discovered",
@@ -1506,51 +1632,6 @@
       ]
     },
     {
-      "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\favicon.ico",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5430"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/x-icon"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 06 Feb 2025 08:53:07 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "61n19gt1b8"
-        },
-        {
-          "Name": "label",
-          "Value": "favicon.ico"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
-        }
-      ]
-    },
-    {
       "Route": "favicon.ico",
       "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\favicon.ico",
       "Selectors": [],
@@ -1561,7 +1642,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5430"
+          "Value": "22028"
         },
         {
           "Name": "Content-Type",
@@ -1569,11 +1650,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "\"NoTyBwTENhh46EUQO26flH3ldygnF3M7P/JpH7O28rI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Feb 2025 08:53:07 GMT"
+          "Value": "Fri, 14 Feb 2025 02:26:29 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1583,7 +1664,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-NoTyBwTENhh46EUQO26flH3ldygnF3M7P/JpH7O28rI="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.qr1xd0plez.ico",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "22028"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NoTyBwTENhh46EUQO26flH3ldygnF3M7P/JpH7O28rI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 02:26:29 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qr1xd0plez"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NoTyBwTENhh46EUQO26flH3ldygnF3M7P/JpH7O28rI="
         }
       ]
     },
@@ -5356,6 +5482,498 @@
         {
           "Name": "integrity",
           "Value": "sha256-ZH6pA6BSx6fuHZvdaKph1DwUJ+VSYilIiEQu8ilnvqk="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap-icons/bootstrap-icons.0gvitdch0g.svg",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1098145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sAD2IsukcRgeSqm4Pk6jigadDgZ0zcgXFIsh7z3NcEs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 02:42:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0gvitdch0g"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap-icons/bootstrap-icons.svg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-sAD2IsukcRgeSqm4Pk6jigadDgZ0zcgXFIsh7z3NcEs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap-icons/bootstrap-icons.svg",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\lib\\bootstrap-icons\\bootstrap-icons.svg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1098145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/svg+xml"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"sAD2IsukcRgeSqm4Pk6jigadDgZ0zcgXFIsh7z3NcEs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 02:42:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-sAD2IsukcRgeSqm4Pk6jigadDgZ0zcgXFIsh7z3NcEs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap-icons/font/bootstrap-icons.4udlh72t27.json",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52358"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TMYGYsQDe5V5/OAo2OI4cMgZ6ehfh/PP5VEO5VcQAgA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 02:42:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4udlh72t27"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap-icons/font/bootstrap-icons.json"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TMYGYsQDe5V5/OAo2OI4cMgZ6ehfh/PP5VEO5VcQAgA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap-icons/font/bootstrap-icons.css",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T/pr6kME0u2kGGg/ViYWhe1HvwCZUDnyflrWLVOTjS0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 02:42:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-T/pr6kME0u2kGGg/ViYWhe1HvwCZUDnyflrWLVOTjS0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap-icons/font/bootstrap-icons.ho0d1k5s6r.css",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "98255"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"T/pr6kME0u2kGGg/ViYWhe1HvwCZUDnyflrWLVOTjS0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 02:42:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ho0d1k5s6r"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap-icons/font/bootstrap-icons.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-T/pr6kME0u2kGGg/ViYWhe1HvwCZUDnyflrWLVOTjS0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap-icons/font/bootstrap-icons.json",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.json",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52358"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TMYGYsQDe5V5/OAo2OI4cMgZ6ehfh/PP5VEO5VcQAgA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 02:42:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TMYGYsQDe5V5/OAo2OI4cMgZ6ehfh/PP5VEO5VcQAgA="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap-icons/font/bootstrap-icons.min.26f9b7qkas.css",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85875"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9kPW/n5nn53j4WMRYAxe9c1rCY96Oogo/MKSVdKzPmI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 02:42:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "26f9b7qkas"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap-icons/font/bootstrap-icons.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9kPW/n5nn53j4WMRYAxe9c1rCY96Oogo/MKSVdKzPmI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap-icons/font/bootstrap-icons.min.css",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\lib\\bootstrap-icons\\font\\bootstrap-icons.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "85875"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9kPW/n5nn53j4WMRYAxe9c1rCY96Oogo/MKSVdKzPmI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 02:42:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9kPW/n5nn53j4WMRYAxe9c1rCY96Oogo/MKSVdKzPmI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap-icons/font/fonts/bootstrap-icons.lssqqxhxcq.woff",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "176032"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ux3pibg5cPb05U3hzZdMXLpVtzWC2l4bIlptDt8ClIM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 02:42:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "lssqqxhxcq"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap-icons/font/fonts/bootstrap-icons.woff"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ux3pibg5cPb05U3hzZdMXLpVtzWC2l4bIlptDt8ClIM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap-icons/font/fonts/bootstrap-icons.woff",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "176032"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/font-woff"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ux3pibg5cPb05U3hzZdMXLpVtzWC2l4bIlptDt8ClIM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 02:42:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ux3pibg5cPb05U3hzZdMXLpVtzWC2l4bIlptDt8ClIM="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap-icons/font/fonts/bootstrap-icons.woff2",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R2rfQrQDJQmPz6izarPnaRhrtPbOaiSXU+LhqcIr+Z4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 02:42:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R2rfQrQDJQmPz6izarPnaRhrtPbOaiSXU+LhqcIr+Z4="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap-icons/font/fonts/bootstrap-icons.xeyugjpn2t.woff2",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\lib\\bootstrap-icons\\font\\fonts\\bootstrap-icons.woff2",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "130396"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "font/woff2"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R2rfQrQDJQmPz6izarPnaRhrtPbOaiSXU+LhqcIr+Z4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 14 Feb 2025 02:42:43 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xeyugjpn2t"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap-icons/font/fonts/bootstrap-icons.woff2"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R2rfQrQDJQmPz6izarPnaRhrtPbOaiSXU+LhqcIr+Z4="
         }
       ]
     },
