@@ -12,6 +12,9 @@ namespace MVC_CRUD
             // Add services to the container.
             builder.Services.AddDbContext<AppDbcontext>(options => options.UseSqlServer(connections));
             builder.Services.AddControllersWithViews();
+            builder.Services.AddScoped<ICategoryServices,CategoryServices>();
+            builder.Services.AddScoped<IDevicesServices, DevicesServices>();
+            builder.Services.AddScoped<IGameServices,GameServices>();
 
             var app = builder.Build();
 

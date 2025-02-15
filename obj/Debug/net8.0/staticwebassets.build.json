@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kus8w0OrTSKztVXZt9M81g/x7w9OMIbKl7XZXEGOAXo=",
+  "Hash": "K9H+7iF9MCzjdb0VE+tVjLZzm8StEKLxDvf9TTWIX4w=",
   "Source": "MVC CRUD",
   "BasePath": "_content/MVC CRUD",
   "Mode": "Default",
@@ -57,6 +57,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVC CRUD.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\da02239f-cf59-4306-bf4e-4169f1a37da3.jpg",
+      "SourceId": "MVC CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\",
+      "BasePath": "_content/MVC CRUD",
+      "RelativePath": "assets/Images/Games/da02239f-cf59-4306-bf4e-4169f1a37da3#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bsje3od8me",
+      "Integrity": "q27aoiGChJVebNdsjKQNONYOMJYWWd6+l4vOeGwPbjI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\Images\\Games\\da02239f-cf59-4306-bf4e-4169f1a37da3.jpg"
     },
     {
       "Identity": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\css\\bootstrap.min.css",
@@ -1467,6 +1488,88 @@
     }
   ],
   "Endpoints": [
+    {
+      "Route": "assets/Images/Games/da02239f-cf59-4306-bf4e-4169f1a37da3.bsje3od8me.jpg",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\da02239f-cf59-4306-bf4e-4169f1a37da3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q27aoiGChJVebNdsjKQNONYOMJYWWd6+l4vOeGwPbjI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 06:35:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bsje3od8me"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/Images/Games/da02239f-cf59-4306-bf4e-4169f1a37da3.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-q27aoiGChJVebNdsjKQNONYOMJYWWd6+l4vOeGwPbjI="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Images/Games/da02239f-cf59-4306-bf4e-4169f1a37da3.jpg",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\da02239f-cf59-4306-bf4e-4169f1a37da3.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "109109"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"q27aoiGChJVebNdsjKQNONYOMJYWWd6+l4vOeGwPbjI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 06:35:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-q27aoiGChJVebNdsjKQNONYOMJYWWd6+l4vOeGwPbjI="
+        }
+      ]
+    },
     {
       "Route": "css/bootstrap.min.66pmh33k7z.css",
       "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\css\\bootstrap.min.css",
