@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc.Rendering;
+using MVC_CRUD.Attributes;
 
 namespace MVC_CRUD.ViewModels
 {
@@ -12,6 +13,7 @@ namespace MVC_CRUD.ViewModels
         public List<int> SelectedDevices { get; set; }= default!;
         public IEnumerable<SelectListItem> Devices { get; set; } = Enumerable.Empty<SelectListItem>();
         public string Description { get; set; } = string.Empty;
+        [AllowedExtensions(FileSettings.AllowedExtensions), ImageMaxSize(FileSettings.MaxFileSizeByte)]
         public IFormFile Cover {  get; set; }= default!;
 
     }

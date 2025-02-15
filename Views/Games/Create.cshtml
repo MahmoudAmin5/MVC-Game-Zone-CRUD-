@@ -39,7 +39,7 @@
             <div>
                 <label asp-for="Cover" class="form-label mt-4"></label>
                 <input type="file" class="form-control" asp-for="Cover" placeholder="Cover Photo">
-                <small class="form-text text-muted">Only .jpg,.png,.jpeg are allowed with max size 1MB</small> 
+                <small class="form-text text-muted">@FileSettings.AllowedExtensions are allowed with max size @FileSettings.MaxFileSizeMB MB</small> 
                 <span asp-validation-for="Cover" class="text-danger d-block"></span>
 
             </div>
