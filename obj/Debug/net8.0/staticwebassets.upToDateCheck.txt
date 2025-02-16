@@ -5,6 +5,8 @@ wwwroot\assets\Images\Games\8f847a83-47dc-465e-b580-5c5cf1c1f1f7.jpg
 wwwroot\assets\Images\Games\956457be-aefe-477b-8cdf-cce8d8b52a8d.jpg
 wwwroot\assets\Images\Games\da02239f-cf59-4306-bf4e-4169f1a37da3.jpg
 wwwroot\css\bootstrap.min.css
+wwwroot\css\GameIndexStyle.css
+wwwroot\css\HomeIndexStyle.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\AddingTags.js

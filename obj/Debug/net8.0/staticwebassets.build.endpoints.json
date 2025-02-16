@@ -577,6 +577,170 @@
       ]
     },
     {
+      "Route": "css/GameIndexStyle.a6endy66wv.css",
+      "AssetFile": "css/GameIndexStyle.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1494"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"foP8t/4n2ACYFi/0QrrxFPH4oWLZQ4AK3qXZYjkyFss=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 07:55:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "a6endy66wv"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-foP8t/4n2ACYFi/0QrrxFPH4oWLZQ4AK3qXZYjkyFss="
+        },
+        {
+          "Name": "label",
+          "Value": "css/GameIndexStyle.css"
+        }
+      ]
+    },
+    {
+      "Route": "css/GameIndexStyle.css",
+      "AssetFile": "css/GameIndexStyle.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1494"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"foP8t/4n2ACYFi/0QrrxFPH4oWLZQ4AK3qXZYjkyFss=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 07:55:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-foP8t/4n2ACYFi/0QrrxFPH4oWLZQ4AK3qXZYjkyFss="
+        }
+      ]
+    },
+    {
+      "Route": "css/HomeIndexStyle.css",
+      "AssetFile": "css/HomeIndexStyle.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1578"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vKVjujeCCJn15gNcn7BRYDeiql9vUSPNjmqpQOAlEHk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 07:50:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vKVjujeCCJn15gNcn7BRYDeiql9vUSPNjmqpQOAlEHk="
+        }
+      ]
+    },
+    {
+      "Route": "css/HomeIndexStyle.ks4k1d9q08.css",
+      "AssetFile": "css/HomeIndexStyle.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1578"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vKVjujeCCJn15gNcn7BRYDeiql9vUSPNjmqpQOAlEHk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 16 Feb 2025 07:50:59 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ks4k1d9q08"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vKVjujeCCJn15gNcn7BRYDeiql9vUSPNjmqpQOAlEHk="
+        },
+        {
+          "Name": "label",
+          "Value": "css/HomeIndexStyle.css"
+        }
+      ]
+    },
+    {
       "Route": "css/bootstrap.min.66pmh33k7z.css",
       "AssetFile": "css/bootstrap.min.css",
       "Selectors": [],
@@ -673,7 +837,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2836"
+          "Value": "2855"
         },
         {
           "Name": "Content-Type",
@@ -681,22 +845,22 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QgE1DUyq4R/+EOAEymiATCedsI8IkAJ/cBgrIh0DTi8=\""
+          "Value": "\"WID2LMs/XFTnhT5jAdyO0cFSOM1ueJ3qL1CoO6ZpI1E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Feb 2025 16:15:37 GMT"
+          "Value": "Sun, 16 Feb 2025 08:05:18 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-QgE1DUyq4R/+EOAEymiATCedsI8IkAJ/cBgrIh0DTi8="
+          "Value": "sha256-WID2LMs/XFTnhT5jAdyO0cFSOM1ueJ3qL1CoO6ZpI1E="
         }
       ]
     },
     {
-      "Route": "css/site.u888nfhkvf.css",
+      "Route": "css/site.gqn23egnd4.css",
       "AssetFile": "css/site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -710,7 +874,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2836"
+          "Value": "2855"
         },
         {
           "Name": "Content-Type",
@@ -718,21 +882,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"QgE1DUyq4R/+EOAEymiATCedsI8IkAJ/cBgrIh0DTi8=\""
+          "Value": "\"WID2LMs/XFTnhT5jAdyO0cFSOM1ueJ3qL1CoO6ZpI1E=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 15 Feb 2025 16:15:37 GMT"
+          "Value": "Sun, 16 Feb 2025 08:05:18 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "u888nfhkvf"
+          "Value": "gqn23egnd4"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-QgE1DUyq4R/+EOAEymiATCedsI8IkAJ/cBgrIh0DTi8="
+          "Value": "sha256-WID2LMs/XFTnhT5jAdyO0cFSOM1ueJ3qL1CoO6ZpI1E="
         },
         {
           "Name": "label",

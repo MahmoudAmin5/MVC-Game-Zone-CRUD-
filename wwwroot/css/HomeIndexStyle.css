@@ -1,0 +1,59 @@
+﻿/* Game Grid Layout */
+.game-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Responsive columns */
+    gap: 20px; /* Space between cards */
+    padding: 20px;
+    justify-content: center;
+}
+
+/* Game Card Styling */
+.game-card {
+    position: relative;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    border-radius: 15px; /* Smooth edges */
+    overflow: hidden;
+    background: rgba(255, 255, 255, 0.05); /* Soft background */
+    backdrop-filter: blur(5px); /* Glassmorphism effect */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+    .game-card:hover {
+        transform: scale(1.05) translateY(-5px);
+        /*box-shadow: 0 8px 20px rgba(0, 255, 255, 0.5);*/ /* Soft glow */
+    }
+
+    /* Card Image */
+    .game-card .card-body {
+        border-radius: 15px;
+        background-size: cover;
+        background-position: center;
+        height: 300px;
+        transition: filter 0.3s ease-in-out;
+    }
+
+    .game-card:hover .card-body {
+/*        filter: brightness(1.2);*/
+    }
+
+    /* Game Name */
+    .game-card .card-footer {
+        text-align: center;
+        font-weight: bold;
+        padding: 10px;
+        color: white;
+        font-size: 1.2rem;
+    }
+
+/* Category Badge */
+.badge {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background: linear-gradient(135deg, #ff0080, #ff8c00);
+    padding: 5px 15px;
+    border-radius: 12px;
+    font-weight: bold;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
