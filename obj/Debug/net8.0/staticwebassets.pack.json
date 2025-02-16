@@ -5,6 +5,26 @@
       "PackagePath": "staticwebassets\\MVC CRUD.f6tunjxqqh.bundle.scp.css"
     },
     {
+      "Id": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\0a25fba7-06da-40ca-8723-0cefa92aeff0.jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\Games\\0a25fba7-06da-40ca-8723-0cefa92aeff0.jpg"
+    },
+    {
+      "Id": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\0d35eabd-b7e7-4961-9936-7f7647aba9b5.png",
+      "PackagePath": "staticwebassets\\assets\\Images\\Games\\0d35eabd-b7e7-4961-9936-7f7647aba9b5.png"
+    },
+    {
+      "Id": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\661ce8b9-f87c-4aa9-9850-00f6aaefbf21.jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\Games\\661ce8b9-f87c-4aa9-9850-00f6aaefbf21.jpg"
+    },
+    {
+      "Id": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\8f847a83-47dc-465e-b580-5c5cf1c1f1f7.jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\Games\\8f847a83-47dc-465e-b580-5c5cf1c1f1f7.jpg"
+    },
+    {
+      "Id": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\956457be-aefe-477b-8cdf-cce8d8b52a8d.jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\Games\\956457be-aefe-477b-8cdf-cce8d8b52a8d.jpg"
+    },
+    {
       "Id": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\da02239f-cf59-4306-bf4e-4169f1a37da3.jpg",
       "PackagePath": "staticwebassets\\assets\\Images\\Games\\da02239f-cf59-4306-bf4e-4169f1a37da3.jpg"
     },
@@ -19,6 +39,18 @@
     {
       "Id": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\js\\AddingTags.js",
+      "PackagePath": "staticwebassets\\js\\AddingTags.js"
+    },
+    {
+      "Id": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\js\\FileSize-Validator.js",
+      "PackagePath": "staticwebassets\\js\\FileSize-Validator.js"
+    },
+    {
+      "Id": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\js\\Game-Form.js",
+      "PackagePath": "staticwebassets\\js\\Game-Form.js"
     },
     {
       "Id": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\js\\site.js",
@@ -275,6 +307,14 @@
     {
       "Id": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\lib\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\lib\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\lib\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\lib\\select2\\js\\select2.min.js"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MVC CRUD.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

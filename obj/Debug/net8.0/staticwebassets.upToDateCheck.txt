@@ -1,7 +1,15 @@
+wwwroot\assets\Images\Games\0a25fba7-06da-40ca-8723-0cefa92aeff0.jpg
+wwwroot\assets\Images\Games\0d35eabd-b7e7-4961-9936-7f7647aba9b5.png
+wwwroot\assets\Images\Games\661ce8b9-f87c-4aa9-9850-00f6aaefbf21.jpg
+wwwroot\assets\Images\Games\8f847a83-47dc-465e-b580-5c5cf1c1f1f7.jpg
+wwwroot\assets\Images\Games\956457be-aefe-477b-8cdf-cce8d8b52a8d.jpg
 wwwroot\assets\Images\Games\da02239f-cf59-4306-bf4e-4169f1a37da3.jpg
 wwwroot\css\bootstrap.min.css
 wwwroot\css\site.css
 wwwroot\favicon.ico
+wwwroot\js\AddingTags.js
+wwwroot\js\FileSize-Validator.js
+wwwroot\js\Game-Form.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
@@ -66,3 +74,5 @@ wwwroot\lib\jquery-validation\LICENSE.md
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
 wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\select2\css\select2.min.css
+wwwroot\lib\select2\js\select2.min.js

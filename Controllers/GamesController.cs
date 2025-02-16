@@ -16,7 +16,8 @@ namespace MVC_CRUD.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            var Games = _gameServices.GetAll();
+            return View(Games);
         }
         [HttpGet]
         public IActionResult Create()

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "K9H+7iF9MCzjdb0VE+tVjLZzm8StEKLxDvf9TTWIX4w=",
+  "Hash": "zf6BEgq25xM/451EPwJR8r/9jqsooKLV+cCJ/qVp5NM=",
   "Source": "MVC CRUD",
   "BasePath": "_content/MVC CRUD",
   "Mode": "Default",
@@ -59,6 +59,111 @@
       "OriginalItemSpec": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MVC CRUD.bundle.scp.css"
     },
     {
+      "Identity": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\0a25fba7-06da-40ca-8723-0cefa92aeff0.jpg",
+      "SourceId": "MVC CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\",
+      "BasePath": "_content/MVC CRUD",
+      "RelativePath": "assets/Images/Games/0a25fba7-06da-40ca-8723-0cefa92aeff0#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nviyr6mokr",
+      "Integrity": "E8ctq1EN2R5hnZgMxjvQkv+RIpBRp2l0ZyW2oCOrejY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\Images\\Games\\0a25fba7-06da-40ca-8723-0cefa92aeff0.jpg"
+    },
+    {
+      "Identity": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\0d35eabd-b7e7-4961-9936-7f7647aba9b5.png",
+      "SourceId": "MVC CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\",
+      "BasePath": "_content/MVC CRUD",
+      "RelativePath": "assets/Images/Games/0d35eabd-b7e7-4961-9936-7f7647aba9b5#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wtpj3b73f9",
+      "Integrity": "hChHHJr83qUVDWLshIZw29IjpNRhq26K92om4O7HYGE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\Images\\Games\\0d35eabd-b7e7-4961-9936-7f7647aba9b5.png"
+    },
+    {
+      "Identity": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\661ce8b9-f87c-4aa9-9850-00f6aaefbf21.jpg",
+      "SourceId": "MVC CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\",
+      "BasePath": "_content/MVC CRUD",
+      "RelativePath": "assets/Images/Games/661ce8b9-f87c-4aa9-9850-00f6aaefbf21#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "zbtkh2ngk5",
+      "Integrity": "gcXxrby7F7TlzuU0BrGNTHgoQFBKLDOgYaWynyqJVdg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\Images\\Games\\661ce8b9-f87c-4aa9-9850-00f6aaefbf21.jpg"
+    },
+    {
+      "Identity": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\8f847a83-47dc-465e-b580-5c5cf1c1f1f7.jpg",
+      "SourceId": "MVC CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\",
+      "BasePath": "_content/MVC CRUD",
+      "RelativePath": "assets/Images/Games/8f847a83-47dc-465e-b580-5c5cf1c1f1f7#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7165mjuts6",
+      "Integrity": "y8+WOyL9mPBl1bOMC9/3yIGfQSlxmFB1FqP7/f2G60s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\Images\\Games\\8f847a83-47dc-465e-b580-5c5cf1c1f1f7.jpg"
+    },
+    {
+      "Identity": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\956457be-aefe-477b-8cdf-cce8d8b52a8d.jpg",
+      "SourceId": "MVC CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\",
+      "BasePath": "_content/MVC CRUD",
+      "RelativePath": "assets/Images/Games/956457be-aefe-477b-8cdf-cce8d8b52a8d#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "96ad4c36qk",
+      "Integrity": "P6fDYTmJjYbbm2LMwde3rnD/HZjA6cHUnd9gJTaMJGE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\Images\\Games\\956457be-aefe-477b-8cdf-cce8d8b52a8d.jpg"
+    },
+    {
       "Identity": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\da02239f-cf59-4306-bf4e-4169f1a37da3.jpg",
       "SourceId": "MVC CRUD",
       "SourceType": "Discovered",
@@ -115,8 +220,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xi3y1b39tq",
-      "Integrity": "WWOJrUyzs+pDD1dYR3oE4RS4svn/X88N758uv7heu+E=",
+      "Fingerprint": "u888nfhkvf",
+      "Integrity": "QgE1DUyq4R/+EOAEymiATCedsI8IkAJ/cBgrIh0DTi8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -143,6 +248,69 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\js\\AddingTags.js",
+      "SourceId": "MVC CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\",
+      "BasePath": "_content/MVC CRUD",
+      "RelativePath": "js/AddingTags#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "al2uqa2m0z",
+      "Integrity": "nsrdHhWiwGVjxsRCNpOi/9UImpeyDZHZoNr5KlRfYMs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\AddingTags.js"
+    },
+    {
+      "Identity": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\js\\FileSize-Validator.js",
+      "SourceId": "MVC CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\",
+      "BasePath": "_content/MVC CRUD",
+      "RelativePath": "js/FileSize-Validator#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "794zrewj86",
+      "Integrity": "S7PCkULpTOsZjvn65JGLFlKGtXjexAwNYz/vWeCUaFI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\FileSize-Validator.js"
+    },
+    {
+      "Identity": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\js\\Game-Form.js",
+      "SourceId": "MVC CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\",
+      "BasePath": "_content/MVC CRUD",
+      "RelativePath": "js/Game-Form#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "yx2e8q0clv",
+      "Integrity": "mkn4fzLnpxq1fy/eTH5Tr9Vd0B0uo6aKz2cEd3N+drs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\Game-Form.js"
+    },
+    {
       "Identity": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\js\\site.js",
       "SourceId": "MVC CRUD",
       "SourceType": "Discovered",
@@ -157,8 +325,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "xtxxf3hu2r",
-      "Integrity": "hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=",
+      "Fingerprint": "pxg82kzqdp",
+      "Integrity": "vcmg29HehBl4J5acAkrBeUYtcCLyEfoJP2Qd8szCamw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -1485,9 +1653,461 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\lib\\select2\\css\\select2.min.css",
+      "SourceId": "MVC CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\",
+      "BasePath": "_content/MVC CRUD",
+      "RelativePath": "lib/select2/css/select2.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ntg7hq0exj",
+      "Integrity": "FdatTf20PQr/rWg+cAKfl6j4/IY3oohFAJ7gVC3M34E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\select2\\css\\select2.min.css"
+    },
+    {
+      "Identity": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\lib\\select2\\js\\select2.min.js",
+      "SourceId": "MVC CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\",
+      "BasePath": "_content/MVC CRUD",
+      "RelativePath": "lib/select2/js/select2.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o2erkrdy46",
+      "Integrity": "AFAYEOkzB6iIKnTYZOdUf9FFje6lOTYdwRJKwTN5mks=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\select2\\js\\select2.min.js"
     }
   ],
   "Endpoints": [
+    {
+      "Route": "assets/Images/Games/0a25fba7-06da-40ca-8723-0cefa92aeff0.jpg",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\0a25fba7-06da-40ca-8723-0cefa92aeff0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "549510"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E8ctq1EN2R5hnZgMxjvQkv+RIpBRp2l0ZyW2oCOrejY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 17:45:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-E8ctq1EN2R5hnZgMxjvQkv+RIpBRp2l0ZyW2oCOrejY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Images/Games/0a25fba7-06da-40ca-8723-0cefa92aeff0.nviyr6mokr.jpg",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\0a25fba7-06da-40ca-8723-0cefa92aeff0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "549510"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"E8ctq1EN2R5hnZgMxjvQkv+RIpBRp2l0ZyW2oCOrejY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 17:45:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nviyr6mokr"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/Images/Games/0a25fba7-06da-40ca-8723-0cefa92aeff0.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-E8ctq1EN2R5hnZgMxjvQkv+RIpBRp2l0ZyW2oCOrejY="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Images/Games/0d35eabd-b7e7-4961-9936-7f7647aba9b5.png",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\0d35eabd-b7e7-4961-9936-7f7647aba9b5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "370652"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hChHHJr83qUVDWLshIZw29IjpNRhq26K92om4O7HYGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 16:22:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hChHHJr83qUVDWLshIZw29IjpNRhq26K92om4O7HYGE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Images/Games/0d35eabd-b7e7-4961-9936-7f7647aba9b5.wtpj3b73f9.png",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\0d35eabd-b7e7-4961-9936-7f7647aba9b5.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "370652"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hChHHJr83qUVDWLshIZw29IjpNRhq26K92om4O7HYGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 16:22:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wtpj3b73f9"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/Images/Games/0d35eabd-b7e7-4961-9936-7f7647aba9b5.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hChHHJr83qUVDWLshIZw29IjpNRhq26K92om4O7HYGE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Images/Games/661ce8b9-f87c-4aa9-9850-00f6aaefbf21.jpg",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\661ce8b9-f87c-4aa9-9850-00f6aaefbf21.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "249796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gcXxrby7F7TlzuU0BrGNTHgoQFBKLDOgYaWynyqJVdg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 18:00:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gcXxrby7F7TlzuU0BrGNTHgoQFBKLDOgYaWynyqJVdg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Images/Games/661ce8b9-f87c-4aa9-9850-00f6aaefbf21.zbtkh2ngk5.jpg",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\661ce8b9-f87c-4aa9-9850-00f6aaefbf21.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "249796"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gcXxrby7F7TlzuU0BrGNTHgoQFBKLDOgYaWynyqJVdg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 18:00:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "zbtkh2ngk5"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/Images/Games/661ce8b9-f87c-4aa9-9850-00f6aaefbf21.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gcXxrby7F7TlzuU0BrGNTHgoQFBKLDOgYaWynyqJVdg="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Images/Games/8f847a83-47dc-465e-b580-5c5cf1c1f1f7.7165mjuts6.jpg",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\8f847a83-47dc-465e-b580-5c5cf1c1f1f7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "229157"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y8+WOyL9mPBl1bOMC9/3yIGfQSlxmFB1FqP7/f2G60s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 17:48:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7165mjuts6"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/Images/Games/8f847a83-47dc-465e-b580-5c5cf1c1f1f7.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-y8+WOyL9mPBl1bOMC9/3yIGfQSlxmFB1FqP7/f2G60s="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Images/Games/8f847a83-47dc-465e-b580-5c5cf1c1f1f7.jpg",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\8f847a83-47dc-465e-b580-5c5cf1c1f1f7.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "229157"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"y8+WOyL9mPBl1bOMC9/3yIGfQSlxmFB1FqP7/f2G60s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 17:48:28 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-y8+WOyL9mPBl1bOMC9/3yIGfQSlxmFB1FqP7/f2G60s="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Images/Games/956457be-aefe-477b-8cdf-cce8d8b52a8d.96ad4c36qk.jpg",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\956457be-aefe-477b-8cdf-cce8d8b52a8d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "284161"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P6fDYTmJjYbbm2LMwde3rnD/HZjA6cHUnd9gJTaMJGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 17:58:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "96ad4c36qk"
+        },
+        {
+          "Name": "label",
+          "Value": "assets/Images/Games/956457be-aefe-477b-8cdf-cce8d8b52a8d.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-P6fDYTmJjYbbm2LMwde3rnD/HZjA6cHUnd9gJTaMJGE="
+        }
+      ]
+    },
+    {
+      "Route": "assets/Images/Games/956457be-aefe-477b-8cdf-cce8d8b52a8d.jpg",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\956457be-aefe-477b-8cdf-cce8d8b52a8d.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "284161"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"P6fDYTmJjYbbm2LMwde3rnD/HZjA6cHUnd9gJTaMJGE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 17:58:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-P6fDYTmJjYbbm2LMwde3rnD/HZjA6cHUnd9gJTaMJGE="
+        }
+      ]
+    },
     {
       "Route": "assets/Images/Games/da02239f-cf59-4306-bf4e-4169f1a37da3.bsje3od8me.jpg",
       "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\da02239f-cf59-4306-bf4e-4169f1a37da3.jpg",
@@ -1663,7 +2283,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "418"
+          "Value": "2836"
         },
         {
           "Name": "Content-Type",
@@ -1671,11 +2291,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WWOJrUyzs+pDD1dYR3oE4RS4svn/X88N758uv7heu+E=\""
+          "Value": "\"QgE1DUyq4R/+EOAEymiATCedsI8IkAJ/cBgrIh0DTi8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 15:16:58 GMT"
+          "Value": "Sat, 15 Feb 2025 16:15:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1685,12 +2305,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-WWOJrUyzs+pDD1dYR3oE4RS4svn/X88N758uv7heu+E="
+          "Value": "sha256-QgE1DUyq4R/+EOAEymiATCedsI8IkAJ/cBgrIh0DTi8="
         }
       ]
     },
     {
-      "Route": "css/site.xi3y1b39tq.css",
+      "Route": "css/site.u888nfhkvf.css",
       "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1700,7 +2320,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "418"
+          "Value": "2836"
         },
         {
           "Name": "Content-Type",
@@ -1708,11 +2328,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WWOJrUyzs+pDD1dYR3oE4RS4svn/X88N758uv7heu+E=\""
+          "Value": "\"QgE1DUyq4R/+EOAEymiATCedsI8IkAJ/cBgrIh0DTi8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 13 Feb 2025 15:16:58 GMT"
+          "Value": "Sat, 15 Feb 2025 16:15:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1722,7 +2342,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xi3y1b39tq"
+          "Value": "u888nfhkvf"
         },
         {
           "Name": "label",
@@ -1730,7 +2350,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-WWOJrUyzs+pDD1dYR3oE4RS4svn/X88N758uv7heu+E="
+          "Value": "sha256-QgE1DUyq4R/+EOAEymiATCedsI8IkAJ/cBgrIh0DTi8="
         }
       ]
     },
@@ -1817,6 +2437,252 @@
       ]
     },
     {
+      "Route": "js/AddingTags.al2uqa2m0z.js",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\js\\AddingTags.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1491"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nsrdHhWiwGVjxsRCNpOi/9UImpeyDZHZoNr5KlRfYMs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 16:20:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "al2uqa2m0z"
+        },
+        {
+          "Name": "label",
+          "Value": "js/AddingTags.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-nsrdHhWiwGVjxsRCNpOi/9UImpeyDZHZoNr5KlRfYMs="
+        }
+      ]
+    },
+    {
+      "Route": "js/AddingTags.js",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\js\\AddingTags.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1491"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"nsrdHhWiwGVjxsRCNpOi/9UImpeyDZHZoNr5KlRfYMs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 16:20:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-nsrdHhWiwGVjxsRCNpOi/9UImpeyDZHZoNr5KlRfYMs="
+        }
+      ]
+    },
+    {
+      "Route": "js/FileSize-Validator.794zrewj86.js",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\js\\FileSize-Validator.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "141"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S7PCkULpTOsZjvn65JGLFlKGtXjexAwNYz/vWeCUaFI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 10:27:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "794zrewj86"
+        },
+        {
+          "Name": "label",
+          "Value": "js/FileSize-Validator.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-S7PCkULpTOsZjvn65JGLFlKGtXjexAwNYz/vWeCUaFI="
+        }
+      ]
+    },
+    {
+      "Route": "js/FileSize-Validator.js",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\js\\FileSize-Validator.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "141"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"S7PCkULpTOsZjvn65JGLFlKGtXjexAwNYz/vWeCUaFI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 10:27:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-S7PCkULpTOsZjvn65JGLFlKGtXjexAwNYz/vWeCUaFI="
+        }
+      ]
+    },
+    {
+      "Route": "js/Game-Form.js",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\js\\Game-Form.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "352"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mkn4fzLnpxq1fy/eTH5Tr9Vd0B0uo6aKz2cEd3N+drs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 15:31:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mkn4fzLnpxq1fy/eTH5Tr9Vd0B0uo6aKz2cEd3N+drs="
+        }
+      ]
+    },
+    {
+      "Route": "js/Game-Form.yx2e8q0clv.js",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\js\\Game-Form.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "352"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mkn4fzLnpxq1fy/eTH5Tr9Vd0B0uo6aKz2cEd3N+drs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 15:31:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "yx2e8q0clv"
+        },
+        {
+          "Name": "label",
+          "Value": "js/Game-Form.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mkn4fzLnpxq1fy/eTH5Tr9Vd0B0uo6aKz2cEd3N+drs="
+        }
+      ]
+    },
+    {
       "Route": "js/site.js",
       "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\js\\site.js",
       "Selectors": [],
@@ -1827,7 +2693,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "355"
         },
         {
           "Name": "Content-Type",
@@ -1835,11 +2701,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"vcmg29HehBl4J5acAkrBeUYtcCLyEfoJP2Qd8szCamw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Feb 2025 08:53:07 GMT"
+          "Value": "Sat, 15 Feb 2025 15:54:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1849,12 +2715,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-vcmg29HehBl4J5acAkrBeUYtcCLyEfoJP2Qd8szCamw="
         }
       ]
     },
     {
-      "Route": "js/site.xtxxf3hu2r.js",
+      "Route": "js/site.pxg82kzqdp.js",
       "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -1864,7 +2730,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "355"
         },
         {
           "Name": "Content-Type",
@@ -1872,11 +2738,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo=\""
+          "Value": "\"vcmg29HehBl4J5acAkrBeUYtcCLyEfoJP2Qd8szCamw=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 06 Feb 2025 08:53:07 GMT"
+          "Value": "Sat, 15 Feb 2025 15:54:04 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1886,7 +2752,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "xtxxf3hu2r"
+          "Value": "pxg82kzqdp"
         },
         {
           "Name": "label",
@@ -1894,7 +2760,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo="
+          "Value": "sha256-vcmg29HehBl4J5acAkrBeUYtcCLyEfoJP2Qd8szCamw="
         }
       ]
     },
@@ -7061,6 +7927,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "lib/select2/css/select2.min.css",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\lib\\select2\\css\\select2.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FdatTf20PQr/rWg+cAKfl6j4/IY3oohFAJ7gVC3M34E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 10:31:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FdatTf20PQr/rWg+cAKfl6j4/IY3oohFAJ7gVC3M34E="
+        }
+      ]
+    },
+    {
+      "Route": "lib/select2/css/select2.min.ntg7hq0exj.css",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\lib\\select2\\css\\select2.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FdatTf20PQr/rWg+cAKfl6j4/IY3oohFAJ7gVC3M34E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 10:31:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ntg7hq0exj"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/select2/css/select2.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FdatTf20PQr/rWg+cAKfl6j4/IY3oohFAJ7gVC3M34E="
+        }
+      ]
+    },
+    {
+      "Route": "lib/select2/js/select2.min.js",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\lib\\select2\\js\\select2.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AFAYEOkzB6iIKnTYZOdUf9FFje6lOTYdwRJKwTN5mks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 10:31:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AFAYEOkzB6iIKnTYZOdUf9FFje6lOTYdwRJKwTN5mks="
+        }
+      ]
+    },
+    {
+      "Route": "lib/select2/js/select2.min.o2erkrdy46.js",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\lib\\select2\\js\\select2.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AFAYEOkzB6iIKnTYZOdUf9FFje6lOTYdwRJKwTN5mks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 15 Feb 2025 10:31:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o2erkrdy46"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/select2/js/select2.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AFAYEOkzB6iIKnTYZOdUf9FFje6lOTYdwRJKwTN5mks="
         }
       ]
     },

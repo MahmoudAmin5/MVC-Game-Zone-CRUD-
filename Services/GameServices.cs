@@ -1,6 +1,7 @@
 ﻿
 
 
+
 namespace MVC_CRUD.Services
 {
     public class GameServices : IGameServices
@@ -33,6 +34,11 @@ namespace MVC_CRUD.Services
             _dbcontext.Add(game);
             _dbcontext.SaveChanges();
 
+        }
+
+        public IEnumerable<Game> GetAll()
+        {
+           return _dbcontext.Games.Include(g=>g.Category).Include(g=>g.Devices).ThenInclude(d=>d.Device).AsNoTracking().ToList();
         }
     }
 }

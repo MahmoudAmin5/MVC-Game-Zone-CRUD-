@@ -24,3 +24,99 @@ html {
 body {
   margin-bottom: 60px;
 }
+.cover-preview{
+    max-height:500px;
+    border-radius:8px;
+    
+}
+/* General styling for all inputs */
+.custom-input {
+    background-color: #2c1b47; /* Dark purple */
+    color: #ffffff; /* White text */
+    border: 2px solid #7d3cff; /* Neon purple border */
+    border-radius: 10px; /* Rounded corners */
+    padding: 10px;
+    font-size: 16px;
+    transition: all 0.3s ease-in-out;
+}
+
+    /* Focus and hover effects */
+    .custom-input:focus, .custom-input:hover {
+        background-color: #3a2361;
+        border-color: #9a5dff;
+        box-shadow: 0px 0px 10px #9a5dff;
+    }
+
+    /* Style multi-select dropdown */
+    .custom-input[multiple] {
+        height: auto;
+        min-height: 50px;
+        overflow-y: auto;
+    }
+
+    /* Style textarea */
+    .custom-input textarea {
+        resize: none; /* Prevent resizing */
+    }
+
+    /* Style the file input */
+    .custom-input[type="file"] {
+        padding: 8px;
+        cursor: pointer;
+    }
+
+/* Custom button styling */
+.custom-button {
+    background-color: #7d3cff;
+    color: #ffffff;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 18px;
+    transition: all 0.3s ease-in-out;
+    border: none;
+}
+
+    .custom-button:hover {
+        background-color: #9a5dff;
+        box-shadow: 0px 0px 10px #9a5dff;
+    }
+/* Style for multi-select dropdown */
+#SelectedDevices {
+    background-color: #2c1b47; /* Dark purple */
+    color: #ffffff;
+    border: 2px solid #7d3cff; /* Neon purple border */
+    border-radius: 10px; /* Rounded corners */
+    padding: 10px;
+    font-size: 16px;
+    transition: all 0.3s ease-in-out;
+    height: auto;
+    min-height: 50px;
+    overflow-y: auto;
+}
+
+    /* Focus effect */
+    #SelectedDevices:focus {
+        background-color: #3a2361;
+        border-color: #9a5dff;
+        box-shadow: 0px 0px 10px #9a5dff;
+    }
+
+    /* Custom scrollbar for better UX */
+    #SelectedDevices::-webkit-scrollbar {
+        width: 6px;
+    }
+
+    #SelectedDevices::-webkit-scrollbar-thumb {
+        background-color: #9a5dff;
+        border-radius: 10px;
+    }
+
+    /* Selected options style */
+    #SelectedDevices option:checked {
+        background-color: #9a5dff;
+        color: #fff;
+        font-weight: bold;
+        border-radius: 20px; /* Makes selected options look like pills */
+        padding: 5px;
+    }
+

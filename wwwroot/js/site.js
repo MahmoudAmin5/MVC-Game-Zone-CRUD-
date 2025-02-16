@@ -1,4 +1,13 @@
-﻿// Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿<script>
+    $(document).ready(function () {
+        console.log("Document Ready!");  // Debugging
+    console.log(typeof $.fn.select2); // Check if Select2 is loaded
 
-// Write your JavaScript code.
+    $('.select2').select2({
+        placeholder: "Select an option",
+    allowClear: true,
+    width: '100%',
+    theme: 'bootstrap-5'
+            });
+        });
+</script>

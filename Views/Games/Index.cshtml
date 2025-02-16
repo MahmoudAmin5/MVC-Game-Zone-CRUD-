@@ -1,4 +1,4 @@
-﻿
+﻿@model IEnumerable<Game>
 @{
     ViewData["Title"] = "Games";
 }
@@ -7,4 +7,14 @@
     <i class="bi bi-plus-circle-dotted "></i>
     Add Game
 </a>
+@if (!Model.Any())
+{
+    <div class="alert alert-warning mt-5">
+        <h4 class="alert-heading">NO Games Found</h4>
+        <p class="mb-0">No games were added yet. </p>
+    </div>
+}
+else{
+
+}
 
