@@ -41,6 +41,10 @@
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
     {
+      "Id": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\css\\bootstrap2.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap2.min.css"
+    },
+    {
       "Id": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

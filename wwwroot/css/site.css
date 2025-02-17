@@ -121,3 +121,148 @@ body {
         padding: 5px;
     }
 
+
+/* Form Container */
+.form-container {
+    background: #0d1b2a; /* Matches the dark navy background */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Labels */
+.form-label {
+    color: #e0e1dd; /* Light gray for better readability */
+    font-size: 16px;
+    font-weight: bold;
+}
+
+/* Input Fields */
+.form-control, .custom-input, .custom-dropdown {
+    width: 100%;
+    padding: 12px;
+    background: #1b263b; /* Darker navy to blend with the theme */
+    border: 1px solid #415a77; /* Subtle deep blue border */
+    border-radius: 8px;
+    color: #e0e1dd; /* Light gray text */
+    font-size: 16px;
+    transition: 0.3s;
+}
+
+/* Placeholder color */
+::placeholder {
+    color: #778da9;
+}
+
+/* Input focus */
+.form-control:focus, .custom-input:focus, .custom-dropdown:focus {
+    border-color: #778da9; /* Soft blue glow */
+    box-shadow: 0 0 8px rgba(65, 90, 119, 0.6);
+    outline: none;
+}
+
+/* File Upload Input */
+#Cover {
+    padding: 10px;
+    background: #1b263b; /* Same as inputs */
+    border: 1px solid #415a77;
+    cursor: pointer;
+}
+
+/* File upload text */
+.custom-file-label {
+    color: #e0e1dd;
+}
+
+/* Buttons */
+.btn-custom {
+    background: #415a77; /* Soft blue */
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 6px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+    .btn-custom:hover {
+        background: #778da9; /* Lighter blue on hover */
+    }
+
+/* Submit Button */
+.text-black {
+    background: #778da9 !important;
+    color: #fff !important;
+    font-weight: bold;
+}
+
+    /* Submit Button Hover */
+    .text-black:hover {
+        background: #a8b5c3 !important;
+    }
+/* Input Fields - Hover Effect */
+.form-control:hover, .custom-input:hover, .custom-dropdown:hover {
+    background: #253349; /* Slightly lighter navy for contrast */
+    border-color: #a8b5c3; /* Softer blue border on hover */
+}
+
+/* Input Fields - Focus */
+.form-control:focus, .custom-input:focus, .custom-dropdown:focus {
+    background: #1f2c40; /* Different shade for focus */
+    border-color: #a8b5c3;
+    box-shadow: 0 0 8px rgba(120, 141, 169, 0.6);
+}
+
+/* Dropdown (Select) Styling */
+.custom-dropdown {
+    appearance: none; /* Removes default browser styling */
+    background: #1b263b; /* Dark navy */
+    color: #e0e1dd; /* Light text */
+    padding: 12px;
+    border-radius: 8px;
+    border: 1px solid #415a77;
+    cursor: pointer;
+}
+
+    /* Dropdown Hover */
+    .custom-dropdown:hover {
+        background: #253349;
+        border-color: #a8b5c3;
+    }
+
+    /* Dropdown Focus */
+    .custom-dropdown:focus {
+        background: #1f2c40;
+        border-color: #a8b5c3;
+        box-shadow: 0 0 8px rgba(120, 141, 169, 0.6);
+    }
+
+/* File Upload Input */
+#Cover:hover {
+    background: #253349;
+    border-color: #a8b5c3;
+    cursor: pointer;
+}
+/* Selected Devices Dropdown */
+#SelectedDevices {
+    background: #1b263b; /* Dark navy */
+    color: #e0e1dd; /* Light text */
+    padding: 12px;
+    border-radius: 8px;
+    border: 1px solid #415a77;
+    cursor: pointer;
+}
+
+    /* Selected Devices - Hover Effect */
+    #SelectedDevices:hover {
+        background: #253349; /* Lighter navy for contrast */
+        border-color: #a8b5c3;
+    }
+
+    /* Selected Devices - Focus */
+    #SelectedDevices:focus {
+        background: #1f2c40;
+        border-color: #a8b5c3;
+        box-shadow: 0 0 8px rgba(120, 141, 169, 0.6);
+    }
+

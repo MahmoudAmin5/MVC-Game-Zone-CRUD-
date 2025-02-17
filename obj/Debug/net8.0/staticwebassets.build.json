@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kNvF+yhxsOmscj7ZxFqFT0AtZARzfV5g1agYfgcCBQM=",
+  "Hash": "hiuUxERnATXC83SDxxEQOJkhv+EKXy5bxASeI3nJs54=",
   "Source": "MVC CRUD",
   "BasePath": "_content/MVC CRUD",
   "Mode": "Default",
@@ -206,6 +206,27 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
+      "Identity": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\css\\bootstrap2.min.css",
+      "SourceId": "MVC CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\",
+      "BasePath": "_content/MVC CRUD",
+      "RelativePath": "css/bootstrap2.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3xtcco88he",
+      "Integrity": "d45/mm4I6sIuxdWZI+Ypqd5vbC8e0AS21BV0a+REbGc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap2.min.css"
+    },
+    {
       "Identity": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\css\\GameIndexStyle.css",
       "SourceId": "MVC CRUD",
       "SourceType": "Discovered",
@@ -262,8 +283,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "gqn23egnd4",
-      "Integrity": "WID2LMs/XFTnhT5jAdyO0cFSOM1ueJ3qL1CoO6ZpI1E=",
+      "Fingerprint": "hvmnu6q55n",
+      "Integrity": "c5ZOiWwaetmfqoiYQV0zckdrsVQBEaZqzncfecdHXcQ=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2315,6 +2336,88 @@
       ]
     },
     {
+      "Route": "css/bootstrap2.min.3xtcco88he.css",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\css\\bootstrap2.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "299863"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d45/mm4I6sIuxdWZI+Ypqd5vbC8e0AS21BV0a+REbGc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 05:21:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3xtcco88he"
+        },
+        {
+          "Name": "label",
+          "Value": "css/bootstrap2.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-d45/mm4I6sIuxdWZI+Ypqd5vbC8e0AS21BV0a+REbGc="
+        }
+      ]
+    },
+    {
+      "Route": "css/bootstrap2.min.css",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\css\\bootstrap2.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "299863"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"d45/mm4I6sIuxdWZI+Ypqd5vbC8e0AS21BV0a+REbGc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 17 Feb 2025 05:21:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-d45/mm4I6sIuxdWZI+Ypqd5vbC8e0AS21BV0a+REbGc="
+        }
+      ]
+    },
+    {
       "Route": "css/GameIndexStyle.a6endy66wv.css",
       "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\css\\GameIndexStyle.css",
       "Selectors": [],
@@ -2489,7 +2592,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2855"
+          "Value": "6388"
         },
         {
           "Name": "Content-Type",
@@ -2497,11 +2600,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WID2LMs/XFTnhT5jAdyO0cFSOM1ueJ3qL1CoO6ZpI1E=\""
+          "Value": "\"c5ZOiWwaetmfqoiYQV0zckdrsVQBEaZqzncfecdHXcQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Feb 2025 08:05:18 GMT"
+          "Value": "Mon, 17 Feb 2025 05:45:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2511,12 +2614,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-WID2LMs/XFTnhT5jAdyO0cFSOM1ueJ3qL1CoO6ZpI1E="
+          "Value": "sha256-c5ZOiWwaetmfqoiYQV0zckdrsVQBEaZqzncfecdHXcQ="
         }
       ]
     },
     {
-      "Route": "css/site.gqn23egnd4.css",
+      "Route": "css/site.hvmnu6q55n.css",
       "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2526,7 +2629,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2855"
+          "Value": "6388"
         },
         {
           "Name": "Content-Type",
@@ -2534,11 +2637,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WID2LMs/XFTnhT5jAdyO0cFSOM1ueJ3qL1CoO6ZpI1E=\""
+          "Value": "\"c5ZOiWwaetmfqoiYQV0zckdrsVQBEaZqzncfecdHXcQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 16 Feb 2025 08:05:18 GMT"
+          "Value": "Mon, 17 Feb 2025 05:45:58 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2548,7 +2651,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "gqn23egnd4"
+          "Value": "hvmnu6q55n"
         },
         {
           "Name": "label",
@@ -2556,7 +2659,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-WID2LMs/XFTnhT5jAdyO0cFSOM1ueJ3qL1CoO6ZpI1E="
+          "Value": "sha256-c5ZOiWwaetmfqoiYQV0zckdrsVQBEaZqzncfecdHXcQ="
         }
       ]
     },
