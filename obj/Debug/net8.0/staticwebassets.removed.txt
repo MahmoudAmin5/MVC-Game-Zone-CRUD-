@@ -1,2 +1,0 @@
-D:\MVC CRUD Elhilaly\MVC CRUD\MVC CRUD\wwwroot\css\bootstrap.min.css
-D:\MVC CRUD Elhilaly\MVC CRUD\MVC CRUD\wwwroot\css\bootstrap2.min.css

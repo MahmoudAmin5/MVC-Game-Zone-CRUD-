@@ -1,0 +1,84 @@
+﻿@model EditGameFormVM
+@{
+    ViewData["Title"] = "Edit Game";
+}
+<h2 class="page-title">
+    <i class="fas fa-gamepad"></i> Edit Game
+</h2>
+
+<form asp-controller="Games" enctype="multipart/form-data">
+    <div class="row">
+        <div class="col-md-6">
+            <div>
+                <label asp-for="Name" class="form-label mt-4 text-light"></label>
+                <input type="text" class="form-control custom-input" asp-for="Name" placeholder="Game Name">
+                <span asp-validation-for="Name" class="text-danger"></span>
+               
+            </div>
+            <div>
+                <label asp-for="CategoryID" class="form-label mt-4 text-light"></label>
+                <select class="form-select form-select custom-dropdown custom-input" asp-for="CategoryID" asp-items="Model.Categories">
+                    <option value="">select Category </option>
+                </select>
+                <span asp-validation-for="CategoryID" class="text-danger"></span>
+            </div>
+            <div>
+                <label asp-for="SelectedDevices" class="form-label mt-4 text-light"></label>
+                <select class="form-select custom-dropdown custom-input" multiple asp-for="SelectedDevices" asp-items="Model.Devices">
+                    <option>--Select Device--</option>
+                </select>
+                <span asp-validation-for="SelectedDevices" class="text-danger"></span>
+            </div>
+            <div>
+                <label asp-for="Description" class="form-label mt-4 text-light"></label>
+                <textarea asp-for="Description" class="form-control custom-input" placeholder="Description"></textarea>
+                <span asp-validation-for="Description" class="text-danger"></span>
+
+            </div>
+            <div>
+                <label asp-for="Cover" class="form-label mt-4 text-light"></label>
+                <input type="file"  class="form-control custom-input" asp-for="Cover"
+                data-rule-extension="@FileSettings.AllowedExtensions.Replace(".",string.Empty)"
+                       data-msg-extension="Not allowed extension only @FileSettings.AllowedExtensions"
+                data-rule-FileSize="@FileSettings.MaxFileSizeByte"
+                       data-msg-extension="Max size is @FileSettings.MaxFileSizeMB MB">
+                <small class="form-text text-muted">@FileSettings.AllowedExtensions are allowed with max size @FileSettings.MaxFileSizeMB MB</small> 
+                <span asp-validation-for="Cover" class="text-danger d-block"></span>
+            </div>
+            <button type="submit" class=" text-black mt-4 btn custom-button">Save</button>
+        </div>
+        <div class="col-md-6 d-flex justify-content-center pt-4 overflow-hidden">
+            <img class="cover-preview " id="coverPreview" alt="Cover" src="@($"{FileSettings.ImagePath}/{Model.CurrentCover}")">
+        </div>
+    </div>
+</form>
+@section Scripts{
+    <partial name="_ValidationScriptsPartial" />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="~/js/filesize-validator.js" asp-append-version="true"></script>
+    <script src="~/js/game-form.js" asp-append-version="true"></script>
+
+    <script>
+        document.getElementById("Cover").addEventListener("change", function (event) {
+            var file = event.target.files[0];
+            var label = document.getElementById("coverLabel");
+            var preview = document.getElementById("coverPreview");
+
+            if (file) {
+                var reader = new FileReader();
+                reader.onload = function (e) {
+                    preview.src = e.target.result;
+                    preview.classList.remove("d-none");
+                };
+                reader.readAsDataURL(file);
+                label.classList.remove("d-none"); // Show the label
+            } else {
+                preview.classList.add("d-none");
+                label.classList.add("d-none");
+            }
+        });
+    </script>
+}
+
+
+

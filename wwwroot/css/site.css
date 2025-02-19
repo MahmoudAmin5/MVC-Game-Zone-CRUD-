@@ -405,7 +405,7 @@ select:focus {
 .custom-dropdown:focus {
     background: #2f2f2f;
     border-color: #bbb;
-    box-shadow: 0 0 8px rgba(180, 180, 180, 0.6);
+/*    box-shadow: 0 0 8px rgba(180, 180, 180, 0.6);*/
 }
 
 /* File Upload Input */
@@ -435,7 +435,7 @@ select:focus {
     #SelectedDevices:focus {
         background: #292929; /* Slightly darker for focus */
         border-color: #bbb; /* Lighter gray border */
-        box-shadow: 0 0 10px rgba(200, 200, 200, 0.5); /* Softer glow */
+        /*box-shadow: 0 0 10px rgba(200, 200, 200, 0.5);*/ /* Softer glow */
         outline: none;
     }
 
@@ -497,7 +497,7 @@ input, select, textarea, .form-control {
     input:focus, select:focus, textarea:focus, .form-control:focus {
         background: #292929 !important;
         border-color: #bbb !important;
-        box-shadow: 0 0 10px rgba(200, 200, 200, 0.6) !important;
+/*        box-shadow: 0 0 10px rgba(200, 200, 200, 0.6) !important;*/
         outline: none !important;
     }
 
@@ -512,7 +512,7 @@ input, select, textarea, .form-control {
     background: #2e2e2e !important;
     border-color: #bbb !important;
     cursor: pointer;
-    box-shadow: 0 0 10px rgba(200, 200, 200, 0.5) !important;
+/*    box-shadow: 0 0 10px rgba(200, 200, 200, 0.5) !important;*/
 }
 
 /* Remove any unwanted focus styling */
@@ -525,6 +525,70 @@ input:focus-visible, .form-control:focus-visible {
 ::placeholder {
     color: rgba(255, 255, 255, 0.6) !important;
 }
+.card {
+    border: none;
+}
+
+.badge {
+    letter-spacing: 0.5px;
+    font-weight: bold;
+}
+
+.img-fluid {
+    border: 3px solid rgba(255, 255, 255, 0.2);
+}
+
+.text-light-emphasis {
+    color: rgba(255, 255, 255, 0.8) !important;
+}
+.game-card {
+    background: rgba(255, 255, 255, 0.08); /* Slightly transparent dark */
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+    .game-card:hover {
+        transform: scale(1.03);
+        box-shadow: 0 6px 12px rgba(255, 255, 255, 0.15);
+    }
+
+.game-cover {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.btn-sm {
+    padding: 5px 10px;
+    font-size: 14px;
+    border-radius: 6px;
+}
+
+.add-game-btn {
+    background: linear-gradient(45deg, #ff6600, #ff007f); /* Warmer neon colors */
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 30px;
+    transition: all 0.3s ease-in-out;
+    box-shadow: 0 0 10px rgba(255, 102, 0, 0.5);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+}
+
+    .add-game-btn i {
+        font-size: 20px;
+    }
+
+
 
 
 

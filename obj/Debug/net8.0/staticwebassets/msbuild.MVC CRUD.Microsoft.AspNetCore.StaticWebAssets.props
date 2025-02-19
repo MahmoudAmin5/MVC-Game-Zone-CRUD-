@@ -174,8 +174,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>a6endy66wv</Fingerprint>
-      <Integrity>foP8t/4n2ACYFi/0QrrxFPH4oWLZQ4AK3qXZYjkyFss=</Integrity>
+      <Fingerprint>uiouvqyq2z</Fingerprint>
+      <Integrity>WmGKlxNO+GemSoEzjk99HdA3pwUoDP9UuXe1htezP7I=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\GameIndexStyle.css'))</OriginalItemSpec>
@@ -210,8 +210,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>w6v9pc8ntn</Fingerprint>
-      <Integrity>2FCvcT/gBxri2N/h8G7WB4BEzq1T7u6Yn895qYyiaU8=</Integrity>
+      <Fingerprint>id8ddyxnnx</Fingerprint>
+      <Integrity>Ws/LcjqDFoGmzvRHbZKlRfrXigWnc4eRIl1jMBOA+bs=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>

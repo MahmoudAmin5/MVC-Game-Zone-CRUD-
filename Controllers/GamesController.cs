@@ -51,6 +51,39 @@ namespace MVC_CRUD.Controllers
                 return NotFound(); 
             return View(game);   
         }
+        public IActionResult Edit(int id) { 
+            var game= _gameServices.GetGameByID(id);
+            if (game is null)
+                return NotFound();
+            EditGameFormVM VM = new() { 
+              id = id,
+              Categories = _categoryServices.GetListItems(),
+              Devices = _devicesServices.GetListItems(),
+               CategoryID = game.CategoryID,
+               Description = game.Description,
+                Name = game.Name,
+                SelectedDevices = game.Devices.Select(d => d.DeviceId).ToList(),
+                 CurrentCover = game.Cover
+            };
+            return View("Edit",VM);
+        }
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> Edit(EditGameFormVM VM)
+        {
+            if (!ModelState.IsValid)
+            {
+                VM.Categories = _categoryServices.GetListItems();
+                VM.Devices = _devicesServices.GetListItems();
+                return View(VM);
+            }
+            //save game into database 
+            // save cover into the server 
+           var game=await _gameServices.EditGame(VM);
+            if (game is null)
+                return BadRequest();
+            return RedirectToAction(nameof(Index));
+        }
 
     }
 }
