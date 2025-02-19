@@ -17,12 +17,20 @@
       "PackagePath": "staticwebassets\\assets\\Images\\Games\\661ce8b9-f87c-4aa9-9850-00f6aaefbf21.jpg"
     },
     {
+      "Id": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\69e2ec56-0f14-4255-a3de-89745dacd221.jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\Games\\69e2ec56-0f14-4255-a3de-89745dacd221.jpg"
+    },
+    {
       "Id": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\8f847a83-47dc-465e-b580-5c5cf1c1f1f7.jpg",
       "PackagePath": "staticwebassets\\assets\\Images\\Games\\8f847a83-47dc-465e-b580-5c5cf1c1f1f7.jpg"
     },
     {
       "Id": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\956457be-aefe-477b-8cdf-cce8d8b52a8d.jpg",
       "PackagePath": "staticwebassets\\assets\\Images\\Games\\956457be-aefe-477b-8cdf-cce8d8b52a8d.jpg"
+    },
+    {
+      "Id": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\9c18c99f-4b2f-4539-8e33-0b0ccc6e853d.jpg",
+      "PackagePath": "staticwebassets\\assets\\Images\\Games\\9c18c99f-4b2f-4539-8e33-0b0ccc6e853d.jpg"
     },
     {
       "Id": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\assets\\Images\\Games\\da02239f-cf59-4306-bf4e-4169f1a37da3.jpg",
@@ -37,12 +45,8 @@
       "PackagePath": "staticwebassets\\css\\HomeIndexStyle.css"
     },
     {
-      "Id": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\css\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
-    },
-    {
-      "Id": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\css\\bootstrap2.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap2.min.css"
+      "Id": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\css\\bootstrapDark.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrapDark.min.css"
     },
     {
       "Id": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\css\\site.css",

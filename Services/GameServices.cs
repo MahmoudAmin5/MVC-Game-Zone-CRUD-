@@ -40,5 +40,11 @@ namespace MVC_CRUD.Services
         {
            return _dbcontext.Games.Include(g=>g.Category).Include(g=>g.Devices).ThenInclude(d=>d.Device).AsNoTracking().ToList();
         }
+
+        public Game? GetGameByID(int id)
+        {
+            return _dbcontext.Games.Include(g => g.Category).Include(g => g.Devices).ThenInclude(d => d.Device).AsNoTracking().SingleOrDefault(g=>g.ID==id);
+        
+    }
     }
 }

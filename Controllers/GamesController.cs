@@ -44,6 +44,13 @@ namespace MVC_CRUD.Controllers
            await _gameServices.CreateGame(VM);
              return RedirectToAction(nameof(Index));
         }
+        public IActionResult Details(int id)
+        {
+            var game=_gameServices.GetGameByID(id);
+            if (game is null)
+                return NotFound(); 
+            return View(game);   
+        }
 
     }
 }

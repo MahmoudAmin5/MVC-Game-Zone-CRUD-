@@ -54,6 +54,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\661ce8b9-f87c-4aa9-9850-00f6aaefbf21.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\69e2ec56-0f14-4255-a3de-89745dacd221.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MVC CRUD</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MVC CRUD</BasePath>
+      <RelativePath>assets/Images/Games/69e2ec56-0f14-4255-a3de-89745dacd221.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>zldbqxalgb</Fingerprint>
+      <Integrity>p3dfJAfKFmUAE7E+EcKlMhDPOnwgrXrdcHxJbBnRvPg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\69e2ec56-0f14-4255-a3de-89745dacd221.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\8f847a83-47dc-465e-b580-5c5cf1c1f1f7.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>MVC CRUD</SourceId>
@@ -90,6 +108,24 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\956457be-aefe-477b-8cdf-cce8d8b52a8d.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\9c18c99f-4b2f-4539-8e33-0b0ccc6e853d.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MVC CRUD</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MVC CRUD</BasePath>
+      <RelativePath>assets/Images/Games/9c18c99f-4b2f-4539-8e33-0b0ccc6e853d.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>zldbqxalgb</Fingerprint>
+      <Integrity>p3dfJAfKFmUAE7E+EcKlMhDPOnwgrXrdcHxJbBnRvPg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\9c18c99f-4b2f-4539-8e33-0b0ccc6e853d.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\da02239f-cf59-4306-bf4e-4169f1a37da3.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>MVC CRUD</SourceId>
@@ -108,41 +144,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\da02239f-cf59-4306-bf4e-4169f1a37da3.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrap.min.css'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrapDark.min.css'))">
       <SourceType>Package</SourceType>
       <SourceId>MVC CRUD</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/MVC CRUD</BasePath>
-      <RelativePath>css/bootstrap.min.css</RelativePath>
+      <RelativePath>css/bootstrapDark.min.css</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>66pmh33k7z</Fingerprint>
-      <Integrity>EgovCbEokheYwKR621Pm4Os8SU8Qx54YZ6erugu+n80=</Integrity>
+      <Fingerprint>4kfgdmvv9t</Fingerprint>
+      <Integrity>xKfcJHDOlJkFvYN1rmmGhwwo9llZ2M6xB31SA0RDdYA=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrap.min.css'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrap2.min.css'))">
-      <SourceType>Package</SourceType>
-      <SourceId>MVC CRUD</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/MVC CRUD</BasePath>
-      <RelativePath>css/bootstrap2.min.css</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>3xtcco88he</Fingerprint>
-      <Integrity>d45/mm4I6sIuxdWZI+Ypqd5vbC8e0AS21BV0a+REbGc=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrap2.min.css'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrapDark.min.css'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\GameIndexStyle.css'))">
       <SourceType>Package</SourceType>
@@ -192,8 +210,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>hvmnu6q55n</Fingerprint>
-      <Integrity>c5ZOiWwaetmfqoiYQV0zckdrsVQBEaZqzncfecdHXcQ=</Integrity>
+      <Fingerprint>w6v9pc8ntn</Fingerprint>
+      <Integrity>2FCvcT/gBxri2N/h8G7WB4BEzq1T7u6Yn895qYyiaU8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</OriginalItemSpec>
