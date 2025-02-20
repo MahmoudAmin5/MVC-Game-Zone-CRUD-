@@ -84,6 +84,12 @@ namespace MVC_CRUD.Controllers
                 return BadRequest();
             return RedirectToAction(nameof(Index));
         }
+         [HttpDelete]
+        public IActionResult Delete(int id) {
 
+            var IsDeleted=_gameServices.DeleteGame(id);
+            
+            return IsDeleted ? Ok() : BadRequest();
+        }
     }
 }

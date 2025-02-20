@@ -1,29 +1,11 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\0a25fba7-06da-40ca-8723-0cefa92aeff0.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\0a7e284f-6d19-43d4-825c-195de3001cc7.png'))">
       <SourceType>Package</SourceType>
       <SourceId>MVC CRUD</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/MVC CRUD</BasePath>
-      <RelativePath>assets/Images/Games/0a25fba7-06da-40ca-8723-0cefa92aeff0.jpg</RelativePath>
-      <AssetKind>All</AssetKind>
-      <AssetMode>All</AssetMode>
-      <AssetRole>Primary</AssetRole>
-      <RelatedAsset></RelatedAsset>
-      <AssetTraitName></AssetTraitName>
-      <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>nviyr6mokr</Fingerprint>
-      <Integrity>E8ctq1EN2R5hnZgMxjvQkv+RIpBRp2l0ZyW2oCOrejY=</Integrity>
-      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
-      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\0a25fba7-06da-40ca-8723-0cefa92aeff0.jpg'))</OriginalItemSpec>
-    </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\0d35eabd-b7e7-4961-9936-7f7647aba9b5.png'))">
-      <SourceType>Package</SourceType>
-      <SourceId>MVC CRUD</SourceId>
-      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
-      <BasePath>_content/MVC CRUD</BasePath>
-      <RelativePath>assets/Images/Games/0d35eabd-b7e7-4961-9936-7f7647aba9b5.png</RelativePath>
+      <RelativePath>assets/Images/Games/0a7e284f-6d19-43d4-825c-195de3001cc7.png</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -34,25 +16,25 @@
       <Integrity>hChHHJr83qUVDWLshIZw29IjpNRhq26K92om4O7HYGE=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\0d35eabd-b7e7-4961-9936-7f7647aba9b5.png'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\0a7e284f-6d19-43d4-825c-195de3001cc7.png'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\661ce8b9-f87c-4aa9-9850-00f6aaefbf21.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\306bc0ab-9838-44c1-9c2d-fe2e3970dbec.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>MVC CRUD</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/MVC CRUD</BasePath>
-      <RelativePath>assets/Images/Games/661ce8b9-f87c-4aa9-9850-00f6aaefbf21.jpg</RelativePath>
+      <RelativePath>assets/Images/Games/306bc0ab-9838-44c1-9c2d-fe2e3970dbec.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>zbtkh2ngk5</Fingerprint>
-      <Integrity>gcXxrby7F7TlzuU0BrGNTHgoQFBKLDOgYaWynyqJVdg=</Integrity>
+      <Fingerprint>muh1ss3j76</Fingerprint>
+      <Integrity>nowTbMQTiakzxH+OPri1BJnn+EmNlvOBixfOgPeOo/s=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\661ce8b9-f87c-4aa9-9850-00f6aaefbf21.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\306bc0ab-9838-44c1-9c2d-fe2e3970dbec.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\69e2ec56-0f14-4255-a3de-89745dacd221.jpg'))">
       <SourceType>Package</SourceType>
@@ -72,12 +54,12 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\69e2ec56-0f14-4255-a3de-89745dacd221.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\8f847a83-47dc-465e-b580-5c5cf1c1f1f7.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\6ef62b8f-ba40-4bcf-8847-5f8931bf040e.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>MVC CRUD</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/MVC CRUD</BasePath>
-      <RelativePath>assets/Images/Games/8f847a83-47dc-465e-b580-5c5cf1c1f1f7.jpg</RelativePath>
+      <RelativePath>assets/Images/Games/6ef62b8f-ba40-4bcf-8847-5f8931bf040e.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -88,32 +70,32 @@
       <Integrity>y8+WOyL9mPBl1bOMC9/3yIGfQSlxmFB1FqP7/f2G60s=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\8f847a83-47dc-465e-b580-5c5cf1c1f1f7.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\6ef62b8f-ba40-4bcf-8847-5f8931bf040e.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\956457be-aefe-477b-8cdf-cce8d8b52a8d.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\6f43b6b4-2fb7-4b4e-b5a3-e41d2dc8d578.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>MVC CRUD</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/MVC CRUD</BasePath>
-      <RelativePath>assets/Images/Games/956457be-aefe-477b-8cdf-cce8d8b52a8d.jpg</RelativePath>
+      <RelativePath>assets/Images/Games/6f43b6b4-2fb7-4b4e-b5a3-e41d2dc8d578.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>96ad4c36qk</Fingerprint>
-      <Integrity>P6fDYTmJjYbbm2LMwde3rnD/HZjA6cHUnd9gJTaMJGE=</Integrity>
+      <Fingerprint>zbtkh2ngk5</Fingerprint>
+      <Integrity>gcXxrby7F7TlzuU0BrGNTHgoQFBKLDOgYaWynyqJVdg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\956457be-aefe-477b-8cdf-cce8d8b52a8d.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\6f43b6b4-2fb7-4b4e-b5a3-e41d2dc8d578.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\9c18c99f-4b2f-4539-8e33-0b0ccc6e853d.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\7588d901-9819-4180-a8fc-a0ca97c0f4bf.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>MVC CRUD</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/MVC CRUD</BasePath>
-      <RelativePath>assets/Images/Games/9c18c99f-4b2f-4539-8e33-0b0ccc6e853d.jpg</RelativePath>
+      <RelativePath>assets/Images/Games/7588d901-9819-4180-a8fc-a0ca97c0f4bf.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -124,14 +106,32 @@
       <Integrity>p3dfJAfKFmUAE7E+EcKlMhDPOnwgrXrdcHxJbBnRvPg=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\9c18c99f-4b2f-4539-8e33-0b0ccc6e853d.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\7588d901-9819-4180-a8fc-a0ca97c0f4bf.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\da02239f-cf59-4306-bf4e-4169f1a37da3.jpg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\82c24103-27c3-4ad2-a15c-0cb9d7541585.jpg'))">
       <SourceType>Package</SourceType>
       <SourceId>MVC CRUD</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/MVC CRUD</BasePath>
-      <RelativePath>assets/Images/Games/da02239f-cf59-4306-bf4e-4169f1a37da3.jpg</RelativePath>
+      <RelativePath>assets/Images/Games/82c24103-27c3-4ad2-a15c-0cb9d7541585.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>96ad4c36qk</Fingerprint>
+      <Integrity>P6fDYTmJjYbbm2LMwde3rnD/HZjA6cHUnd9gJTaMJGE=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\82c24103-27c3-4ad2-a15c-0cb9d7541585.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\969903cb-d34a-4967-8f96-b8d8ab610273.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MVC CRUD</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MVC CRUD</BasePath>
+      <RelativePath>assets/Images/Games/969903cb-d34a-4967-8f96-b8d8ab610273.jpg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -142,7 +142,25 @@
       <Integrity>q27aoiGChJVebNdsjKQNONYOMJYWWd6+l4vOeGwPbjI=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\da02239f-cf59-4306-bf4e-4169f1a37da3.jpg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\969903cb-d34a-4967-8f96-b8d8ab610273.jpg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\db6e8f6a-56b3-4d3c-b557-870c647e8da7.jpg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MVC CRUD</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MVC CRUD</BasePath>
+      <RelativePath>assets/Images/Games/db6e8f6a-56b3-4d3c-b557-870c647e8da7.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>rehxx2cq5g</Fingerprint>
+      <Integrity>neDI6Jc3ZnD0RV6pGs0AVZil7Db1GzwJt9dF+u6lEG8=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\Images\Games\db6e8f6a-56b3-4d3c-b557-870c647e8da7.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\bootstrapDark.min.css'))">
       <SourceType>Package</SourceType>
@@ -287,6 +305,24 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\Game-Form.js'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\Games-index.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MVC CRUD</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MVC CRUD</BasePath>
+      <RelativePath>js/Games-index.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>udum0f7sxr</Fingerprint>
+      <Integrity>Uk/Fku+VV7VPRmuNC62Ye+0Ji/PoVYOV7TSdtFC9VIg=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\Games-index.js'))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))">
       <SourceType>Package</SourceType>
@@ -1493,6 +1529,42 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MVC CRUD.f6tunjxqqh.bundle.scp.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\sweetalert2\sweetalert2.min.css'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MVC CRUD</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MVC CRUD</BasePath>
+      <RelativePath>sweetalert2/sweetalert2.min.css</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>e77xwd3reu</Fingerprint>
+      <Integrity>ugbaEitpVSMgCpnPe7m69OyL6M47KkfE36OdRjQXD28=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\sweetalert2\sweetalert2.min.css'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\sweetalert2\sweetalert2.min.js'))">
+      <SourceType>Package</SourceType>
+      <SourceId>MVC CRUD</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/MVC CRUD</BasePath>
+      <RelativePath>sweetalert2/sweetalert2.min.js</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>jh8payikmc</Fingerprint>
+      <Integrity>NymeZ7cWbCQbDfRppSBOxYNT+Wxw26pDSCAMUNoOVr4=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\sweetalert2\sweetalert2.min.js'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

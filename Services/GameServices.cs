@@ -34,6 +34,23 @@ namespace MVC_CRUD.Services
 
         }
 
+        public bool DeleteGame(int id)
+        {
+            var IsDeleted = false;
+            var game=_dbcontext.Games.Find(id);
+            if(game is null)
+                return IsDeleted;
+            _dbcontext.Remove(game);
+            var EffectedRows = _dbcontext.SaveChanges();
+            if (EffectedRows > 0)
+            {
+                IsDeleted = true;
+                var cover=Path.Combine(ImagePath,game.Cover);
+                File.Delete(cover);
+            }
+            return IsDeleted;
+        }
+
         public async Task<Game?> EditGame(EditGameFormVM VM)
         {
             var game = _dbcontext.Games.Include(d => d.Devices)
