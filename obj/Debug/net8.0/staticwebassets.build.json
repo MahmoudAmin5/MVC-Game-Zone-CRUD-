@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ArCg4DpcdqMpJNfDHV8wbq5FZARfg41ynVtPIXvtr+o=",
+  "Hash": "HLrJBWQgSJiyRCX3+O0s17cwT4cw8+dglSZjopzdiBM=",
   "Source": "MVC CRUD",
   "BasePath": "_content/MVC CRUD",
   "Mode": "Default",
@@ -325,8 +325,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "id8ddyxnnx",
-      "Integrity": "Ws/LcjqDFoGmzvRHbZKlRfrXigWnc4eRIl1jMBOA+bs=",
+      "Fingerprint": "rh1n0ntnnr",
+      "Integrity": "T7PkZNJ1Ho9+Jh/bcqBvVQkMONMGmmQk3NQWxJBDz9Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1823,6 +1823,48 @@
       "OriginalItemSpec": "wwwroot\\lib\\select2\\js\\select2.min.js"
     },
     {
+      "Identity": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\select2\\css\\select2.min.css",
+      "SourceId": "MVC CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\",
+      "BasePath": "_content/MVC CRUD",
+      "RelativePath": "select2/css/select2.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ntg7hq0exj",
+      "Integrity": "FdatTf20PQr/rWg+cAKfl6j4/IY3oohFAJ7gVC3M34E=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\select2\\css\\select2.min.css"
+    },
+    {
+      "Identity": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\select2\\js\\select2.min.js",
+      "SourceId": "MVC CRUD",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\",
+      "BasePath": "_content/MVC CRUD",
+      "RelativePath": "select2/js/select2.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "o2erkrdy46",
+      "Integrity": "AFAYEOkzB6iIKnTYZOdUf9FFje6lOTYdwRJKwTN5mks=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\select2\\js\\select2.min.js"
+    },
+    {
       "Identity": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\sweetalert2\\sweetalert2.min.css",
       "SourceId": "MVC CRUD",
       "SourceType": "Discovered",
@@ -2861,7 +2903,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13896"
+          "Value": "14918"
         },
         {
           "Name": "Content-Type",
@@ -2869,11 +2911,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ws/LcjqDFoGmzvRHbZKlRfrXigWnc4eRIl1jMBOA+bs=\""
+          "Value": "\"T7PkZNJ1Ho9+Jh/bcqBvVQkMONMGmmQk3NQWxJBDz9Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 18:57:05 GMT"
+          "Value": "Thu, 20 Feb 2025 13:01:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2883,12 +2925,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Ws/LcjqDFoGmzvRHbZKlRfrXigWnc4eRIl1jMBOA+bs="
+          "Value": "sha256-T7PkZNJ1Ho9+Jh/bcqBvVQkMONMGmmQk3NQWxJBDz9Q="
         }
       ]
     },
     {
-      "Route": "css/site.id8ddyxnnx.css",
+      "Route": "css/site.rh1n0ntnnr.css",
       "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2898,7 +2940,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13896"
+          "Value": "14918"
         },
         {
           "Name": "Content-Type",
@@ -2906,11 +2948,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Ws/LcjqDFoGmzvRHbZKlRfrXigWnc4eRIl1jMBOA+bs=\""
+          "Value": "\"T7PkZNJ1Ho9+Jh/bcqBvVQkMONMGmmQk3NQWxJBDz9Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 19 Feb 2025 18:57:05 GMT"
+          "Value": "Thu, 20 Feb 2025 13:01:53 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2920,7 +2962,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "id8ddyxnnx"
+          "Value": "rh1n0ntnnr"
         },
         {
           "Name": "label",
@@ -2928,7 +2970,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Ws/LcjqDFoGmzvRHbZKlRfrXigWnc4eRIl1jMBOA+bs="
+          "Value": "sha256-T7PkZNJ1Ho9+Jh/bcqBvVQkMONMGmmQk3NQWxJBDz9Q="
         }
       ]
     },
@@ -8915,6 +8957,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-yd3gEy2iKr+9aHEe5I3nNTvOB3mDx2wDsJj8I35eJN8="
+        }
+      ]
+    },
+    {
+      "Route": "select2/css/select2.min.css",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\select2\\css\\select2.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FdatTf20PQr/rWg+cAKfl6j4/IY3oohFAJ7gVC3M34E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 13:05:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FdatTf20PQr/rWg+cAKfl6j4/IY3oohFAJ7gVC3M34E="
+        }
+      ]
+    },
+    {
+      "Route": "select2/css/select2.min.ntg7hq0exj.css",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\select2\\css\\select2.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "14966"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FdatTf20PQr/rWg+cAKfl6j4/IY3oohFAJ7gVC3M34E=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 13:05:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ntg7hq0exj"
+        },
+        {
+          "Name": "label",
+          "Value": "select2/css/select2.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FdatTf20PQr/rWg+cAKfl6j4/IY3oohFAJ7gVC3M34E="
+        }
+      ]
+    },
+    {
+      "Route": "select2/js/select2.min.js",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\select2\\js\\select2.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AFAYEOkzB6iIKnTYZOdUf9FFje6lOTYdwRJKwTN5mks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 13:05:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AFAYEOkzB6iIKnTYZOdUf9FFje6lOTYdwRJKwTN5mks="
+        }
+      ]
+    },
+    {
+      "Route": "select2/js/select2.min.o2erkrdy46.js",
+      "AssetFile": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\select2\\js\\select2.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70851"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AFAYEOkzB6iIKnTYZOdUf9FFje6lOTYdwRJKwTN5mks=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 20 Feb 2025 13:05:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "o2erkrdy46"
+        },
+        {
+          "Name": "label",
+          "Value": "select2/js/select2.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AFAYEOkzB6iIKnTYZOdUf9FFje6lOTYdwRJKwTN5mks="
         }
       ]
     },

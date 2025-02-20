@@ -341,6 +341,14 @@
       "PackagePath": "staticwebassets\\lib\\select2\\js\\select2.min.js"
     },
     {
+      "Id": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\select2\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\select2\\css\\select2.min.css"
+    },
+    {
+      "Id": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\select2\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\select2\\js\\select2.min.js"
+    },
+    {
       "Id": "D:\\MVC CRUD Elhilaly\\MVC CRUD\\MVC CRUD\\wwwroot\\sweetalert2\\sweetalert2.min.css",
       "PackagePath": "staticwebassets\\sweetalert2\\sweetalert2.min.css"
     },

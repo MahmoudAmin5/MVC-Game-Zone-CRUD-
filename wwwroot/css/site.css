@@ -587,8 +587,53 @@ input:focus-visible, .form-control:focus-visible {
     .add-game-btn i {
         font-size: 20px;
     }
+label {
+    font-weight: bold;
+    font-size: 1.1rem;
+}
 
 
+.navbar {
+    background: linear-gradient(90deg, #111, #222, #111);
+    border-bottom: 3px solid #00ffea;
+}
+.page-title {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+}
+.navbar {
+    background-color: #111; /* Darker navbar */
+    padding: 15px;
+    border-bottom: 2px solid #00ffea; /* Neon bottom border */
+}
+
+.navbar-brand {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #fff !important;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.navbar-nav .nav-link {
+    color: #bbb !important;
+    font-size: 1.2rem;
+    transition: 0.3s;
+}
+
+    .navbar-nav .nav-link:hover {
+        color: #00ffea !important; /* Neon hover effect */
+        text-shadow: 0 0 10px #00ffea;
+    }
+.navbar {
+    box-shadow: 0 0 15px rgba(0, 255, 234, 0.5);
+}
+.navbar-nav .nav-item.active .nav-link {
+    color: #00ffea !important;
+    border-bottom: 2px solid #00ffea;
+}
 
 
 

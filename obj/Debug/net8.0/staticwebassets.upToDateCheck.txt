@@ -82,5 +82,7 @@ wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
 wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
 wwwroot\lib\select2\css\select2.min.css
 wwwroot\lib\select2\js\select2.min.js
+wwwroot\select2\css\select2.min.css
+wwwroot\select2\js\select2.min.js
 wwwroot\sweetalert2\sweetalert2.min.css
 wwwroot\sweetalert2\sweetalert2.min.js

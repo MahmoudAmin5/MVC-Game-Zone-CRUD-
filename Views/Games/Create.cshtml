@@ -3,7 +3,7 @@
     ViewData["Title"] = "Add Game";
 }
 <h2 class="page-title">
-    <i class="fas fa-gamepad"></i> Add New Game
+    <i class="fas fa-gamepad"></i> New Game
 </h2>
 
 <form asp-controller="Games" enctype="multipart/form-data">
@@ -16,14 +16,14 @@
                
             </div>
             <div>
-                <label asp-for="CategoryID" class="form-label mt-4 text-light"></label>
+                <label asp-for="CategoryID" class="form-label mt-4 text-light select2"></label>
                 <select class="form-select form-select custom-dropdown custom-input" asp-for="CategoryID" asp-items="Model.Categories">
                     <option value="">select Category </option>
                 </select>
                 <span asp-validation-for="CategoryID" class="text-danger"></span>
             </div>
             <div>
-                <label asp-for="SelectedDevices" class="form-label mt-4 text-light"></label>
+                <label asp-for="SelectedDevices" class="form-label mt-4 text-light select2"></label>
                 <select class="form-select custom-dropdown custom-input" multiple asp-for="SelectedDevices" asp-items="Model.Devices">
                     <option>--Select Device--</option>
                 </select>
@@ -45,7 +45,7 @@
                 <small class="form-text text-muted">@FileSettings.AllowedExtensions are allowed with max size @FileSettings.MaxFileSizeMB MB</small> 
                 <span asp-validation-for="Cover" class="text-danger d-block"></span>
             </div>
-            <button type="submit" class=" text-black mt-4 btn custom-button">Create Game</button>
+            <button type="submit" class=" text-black mt-4 btn custom-button ">Save Game</button>
         </div>
         <div class="col-md-6 d-flex justify-content-center pt-4 overflow-hidden">
             <img class="cover-preview d-none" id="coverPreview" alt="Cover">
@@ -76,6 +76,15 @@
                 preview.classList.add("d-none");
                 label.classList.add("d-none");
             }
+        });
+    </script>
+    <script>
+                $(document).ready(function () {
+            $(".select2").select2({
+                theme: "dark", // Adjust based on your theme
+                placeholder: "Select an option",
+                allowClear: true
+            });
         });
     </script>
 }
